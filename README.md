@@ -72,25 +72,8 @@
 
 <p align="center">
 
-<a href="https://github.com/sirUttam/fuel-type-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirUttam&repo=fuel-type-prediction
-&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/your-username/project-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight" />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/your-username/project-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/your-username/project-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-4&theme=tokyonight" />
+<a href="https://predict-fuel-type.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀 Live%20Demo-Streamlit-00C7B7?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 
 </p>
