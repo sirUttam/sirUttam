@@ -4,6 +4,7 @@
 <h1 align="center">Uttam Aryal</h1>
 
 <h3 align="center">Data Analyst • Data Engineer • Junior ML Engineer</h3>
+</a>&nbsp;&nbsp;
 
 <p align="center">
   <img width="280" src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eG9qcmczMWw4aXBhdDg4ZHkzM2dwNGVxdGs4MjBtbzcwOGJvcGtlbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/200.webp">
@@ -76,7 +77,7 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/uttam-aryal-78a6bb324">
+<a href="https://www.linkedin.com/in/uttam-aryal-78a6bb324/">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
 </a>&nbsp;&nbsp;
 
