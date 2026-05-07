@@ -1,4 +1,5 @@
 ![Logo](https://github.com/sirUttam/sirUttam/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Uttam Aryal</h1>
 <h3 align="center">🚀 Data Analyst | Data Engineer | Junior ML Enthusiast</h3>
 
@@ -10,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Numpy, Pandas, Data Visualization Tools, ML algorithms and Models**
+- 🌱 I’m currently learning **NumPy, Pandas, Data Visualization, ML Algorithms & Models**
 - 📊 Passionate about **Data Science, Data Engineering & Machine Learning**
 - 📫 Reach me at **uttam.info006@gmail.com**
 
@@ -38,15 +39,57 @@
 
 ## 🛠️ Languages and Tools
 
+### 🔹 Primary Skills (Data / ML Core)
+
 <p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="28"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="28"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="28"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="28"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="28"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="28"/>&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Seaborn_logo.svg" width="28"/>
+
+</p>
+
+---
+
+### 🔹 Secondary Tools (Web / Frontend / Programming)
+
+<p align="left">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="28"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="28"/>&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="28"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="28"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="28"/>
+
+</p>
+
+---
+
+## 🚀 ML Project Showcase
+
+<p align="center">
+
+<a href="https://github.com/your-username/project-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/your-username/project-2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-2&theme=tokyonight" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/your-username/project-3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-3&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/your-username/project-4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-4&theme=tokyonight" />
+</a>
 
 </p>
