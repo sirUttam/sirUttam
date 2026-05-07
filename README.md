@@ -72,8 +72,9 @@
 
 <p align="center">
 
-<a href="https://github.com/your-username/project-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-1&theme=tokyonight" />
+<a href="https://github.com/sirUttam/fuel-type-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sirUttam&repo=fuel-type-prediction
+&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/your-username/project-2">
