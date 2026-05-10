@@ -139,7 +139,7 @@
 
 <p align="center">
 
-<a href="https://mental-health-app.streamlit.app/">
+<a href="https://check-your-mental-health.streamlit.app/">
   <img src="https://img.shields.io/badge/🚀 Live%20Demo-Streamlit-7c3aed?style=for-the-badge&logo=streamlit&logoColor=white" />
 </a>
 
