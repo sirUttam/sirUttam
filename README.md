@@ -24,36 +24,96 @@
 
 ### 🔹 Primary Skills (Data / ML Core)
 
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Seaborn_logo.svg" width="40"/>
-
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>
+      Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>
+      Pandas
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50"/><br>
+      NumPy
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50"/><br>
+      Scikit-learn
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50"/><br>
+      Matplotlib
+    </td>
+    <td align="center">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50"/><br>
+      Seaborn
+    </td>
+    <td align="center">
+      <img src="https://cdn-icons-png.flaticon.com/128/919/919836.png" width="50"/><br>
+      MySQL
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🔹 Secondary Tools (Web / Frontend / Programming)
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>
+      JavaScript
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/><br>
+      React
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50"/><br>
+      Next.js
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br>
+      C
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>
+      C++
+    </td>
+  </tr>
+</table>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+### 🔹 Productivity & Design Tools
 
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" width="50"/><br>
+      Excel
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=117563&format=png&color=000000" width="50"/><br>
+      Word
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=117557&format=png&color=000000" width="50"/><br>
+      PPT
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width="50"/><br>
+      Figma
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 ML Project Showcase
 
-### Fuel Type Prediction
+### ⛽ Fuel Type Prediction
 
 <p align="center">
 
@@ -66,6 +126,28 @@
 <p align="center">
 
 <a href="https://github.com/sirUttam/fuel-type-prediction">
+  <img src="https://img.shields.io/badge/💻 View%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 🚀 ML Project Showcase (2)
+
+### 🧠 Mental Health Treatment Predictor
+
+<p align="center">
+
+<a href="https://mental-health-app.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀 Live%20Demo-Streamlit-7c3aed?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sirUttam/mental-health-prediction">
   <img src="https://img.shields.io/badge/💻 View%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
