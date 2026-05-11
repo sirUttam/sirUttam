@@ -17,6 +17,7 @@
 - 🌱 I’m currently learning **NumPy, Pandas, Data Visualization, ML Algorithms & Models**
 - 📊 Passionate about **Data Science, Data Engineering & Machine Learning**
 - 📫 Reach me at **uttam.info006@gmail.com**
+- 🔗 All ML Projects https://linktr.ee/sirUttam
 
 ---
 
