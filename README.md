@@ -14,6 +14,11 @@
 
 ## 🚀 About Me
 
+<a href="https://siruttam-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<br><br>
+
 - 🌱 I’m currently learning **NumPy, Pandas, Data Visualization, ML Algorithms & Models**
 - 📊 Passionate about **Data Science, Data Engineering & Machine Learning**
 - 📫 Reach me at **uttam.info006@gmail.com**
