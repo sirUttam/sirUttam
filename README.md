@@ -163,7 +163,7 @@
 
 ## 🚀 ML Project Showcase (3)
 
-### 🧠 Mental Health Treatment Predictor
+### 🧠 Heart Disease Predictor ML 
 
 <p align="center">
 
