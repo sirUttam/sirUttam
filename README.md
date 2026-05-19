@@ -161,6 +161,30 @@
 
 ---
 
+## 🚀 ML Project Showcase (3)
+
+### 🧠 Mental Health Treatment Predictor
+
+<p align="center">
+
+<a href="https://cardiovascular-risk-predictor.streamlit.app/">
+  <img src="https://img.shields.io/badge/🚀 Live%20Demo-Streamlit-7c3aed?style=for-the-badge&logo=streamlit&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/sirUttam/heart-disease-predict-project">
+  <img src="https://img.shields.io/badge/💻 View%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+
+
+---
+
 ## 🌐 Connect with me
 
 <p align="center">
