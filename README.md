@@ -14,10 +14,26 @@
 
 ## 🚀 About Me
 
-#### <p>Visit my Portfolio</p>
+<table>
+  <tr>
+    <td>
+<p>
+<h3>Visit my Portfolio👇</h3> <br>
 <a href="https://siruttam-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
+</p>
+    </td>
+<p>
+    <td>
+      <h3>All Links Here👇</h3>
+      <img src="https://github.com/sirUttam/sirUttam/blob/main/linktree.png?raw=true" width="120"/>
+      <a href="https://linktr.ee/sirUttam">Click me</a>
+    </td>
+  </p>
+  </tr>
+</table>
+
 <br><br>
 
 - 🌱 I’m currently learning **NumPy, Pandas, Data Visualization, ML Algorithms & Models**
