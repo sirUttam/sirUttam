@@ -14,6 +14,7 @@
 
 ## 🚀 About Me
 
+#### <p>Visit my Portfolio</p>
 <a href="https://siruttam-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
