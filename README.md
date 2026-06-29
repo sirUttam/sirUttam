@@ -30,15 +30,14 @@
 <br><br>
 
 - 🌱 I’m currently learning **NumPy, Pandas, Data Visualization, ML Algorithms & Models**
-- 📊 Passionate about **Data Science, Backend Engineering & Machine Learning**
+- 📊 Interested about **Data Science, Backend Engineering & Machine Learning**
 - 📫 Reach me at **uttam.info006@gmail.com**
-- 🔗 All ML Projects https://linktr.ee/sirUttam
 
 ---
 
 ## 🧠 Tech Stack
 
-### 🔹 Primary Skills (Data / ML Core)
+### 🔹 Primary Skills (Backend / Data Core)
 
 <table align="center">
   <tr>
