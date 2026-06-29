@@ -24,20 +24,13 @@
 </a>
 </p>
     </td>
-<p>
-    <td>
-      <h3>All Links Here👇</h3>
-      <img src="https://github.com/sirUttam/sirUttam/blob/main/linktree.png?raw=true" width="120"/>
-      <a href="https://linktr.ee/sirUttam">Click me</a>
-    </td>
-  </p>
   </tr>
 </table>
 
 <br><br>
 
 - 🌱 I’m currently learning **NumPy, Pandas, Data Visualization, ML Algorithms & Models**
-- 📊 Passionate about **Data Science, Data Engineering & Machine Learning**
+- 📊 Passionate about **Data Science, Backend Engineering & Machine Learning**
 - 📫 Reach me at **uttam.info006@gmail.com**
 - 🔗 All ML Projects https://linktr.ee/sirUttam
 
@@ -52,6 +45,14 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>
       Python
+    </td>
+      <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fastapi.svg" width="50"/><br>
+      FastAPI
+    </td>
+     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" width="50"/><br>
+      Docker
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50"/><br>
