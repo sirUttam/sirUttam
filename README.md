@@ -1,5 +1,5 @@
 <!-- HEADER BANNER -->
-![Logo](https://github.com/sirUttam/sirUttam/blob/main/banner.jpg)
+![Logo]()
 
 <h1 align="center">Uttam Aryal</h1>
 
