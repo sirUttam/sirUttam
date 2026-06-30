@@ -19,7 +19,7 @@
     <td>
 <p>
 <h3>Visit my Portfolio👇</h3> <br>
-<a href="https://siruttam-portfolio.vercel.app/" target="_blank">
+<a href="https://uttamaryall.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1f2937?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 </p>
