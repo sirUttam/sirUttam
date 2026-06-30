@@ -215,8 +215,7 @@ Predictive ML model for cardiovascular risk analysis.
 </p>
 
 
-## 🐍 Contribution Graph
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sirUttam/sirUttam/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sirUttam&theme=github_dark&utcOffset=5.75" />
 </p>
+
